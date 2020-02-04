@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # MADE BY KUROISHA
 # INSTAGRAM @kuroisha_ XBL @Kuroisha
- 
+# Uses Server Side To Hit Don't Excpet Power From Thin Air
 use Term::ANSIColor;
 use Term::ANSIColor qw(:constants);
     $Term::ANSIColor::AUTORESET = 2;
